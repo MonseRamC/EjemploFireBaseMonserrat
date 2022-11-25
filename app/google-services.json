@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "709008805068",
+    "firebase_url": "https://unidadiv-22ba8-default-rtdb.firebaseio.com",
+    "project_id": "unidadiv-22ba8",
+    "storage_bucket": "unidadiv-22ba8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709008805068:android:22e6e5dc21e4f8256f0669",
+        "android_client_info": {
+          "package_name": "com.example.ejemplofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709008805068-psfhiocinpg4undol2nte0dhbr8qdibg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYpnl2xUk8832Dd72qhN-Thq6LjkkUYdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709008805068-psfhiocinpg4undol2nte0dhbr8qdibg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709008805068:android:68e2e02d116b73c16f0669",
+        "android_client_info": {
+          "package_name": "com.example.unidadiv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709008805068-psfhiocinpg4undol2nte0dhbr8qdibg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYpnl2xUk8832Dd72qhN-Thq6LjkkUYdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709008805068-psfhiocinpg4undol2nte0dhbr8qdibg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
